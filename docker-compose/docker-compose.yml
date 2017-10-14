@@ -1,4 +1,4 @@
 version: "2"
 services:
-  es:
+  web:
     image: httpd
